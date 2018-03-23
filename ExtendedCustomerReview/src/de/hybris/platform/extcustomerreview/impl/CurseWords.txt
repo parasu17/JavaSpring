@@ -1,0 +1,7 @@
+# This is a file containing a list of CurseWords that are 
+# not allowed in customer comments
+# Any line begining with a hash is a comment
+
+bad
+ugly
+nonsense
